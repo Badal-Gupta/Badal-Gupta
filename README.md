@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Badal Gupta
+<h1 align="center">💫 Hi 👋, I'm Badal Gupta</h1>
 
 <div align="center">
 
