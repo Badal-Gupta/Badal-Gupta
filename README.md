@@ -82,9 +82,9 @@
 
 ---
 
-<h2 align="center">🏆 Achievements & Experience</h2>
+<h2 align="left">🏆 Achievements & Experience</h2>
 
-<div align="center">
+<div align="left">
 
 🌍 <strong>AIU Anveshan'24 International Winner</strong><br>
 🏅 <strong>Winner - Smart India Hackathon 2024</strong><br>
