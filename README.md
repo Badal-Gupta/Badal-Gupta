@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Badal Gupta
+
 <div align="center">
+
 🚀 Aspiring software developer passionate about **AI/ML** and **full-stack development**  
 🤖 Exploring **NLP**, **deep learning**, and **supervised/unsupervised learning**  
 🌐 Learning the **MERN stack** to build smart, scalable web apps  
@@ -8,9 +10,13 @@
 🌱 Currently learning **React**, **Node.js**, **MongoDB**, and **cloud basics**  
 🤝 Always open to **collaboration**, **learning**, and cool tech ideas!
 
+</div>
+
 ---
 
 ## 🌐 Socials
+
+<div align="center">
 
 <a href="https://www.instagram.com/mrcloud/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/badal-gupta-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
@@ -76,6 +82,14 @@
 🥇 <strong>1st Place - Hackathon 2023</strong><br>
 💻 Developed <strong>Career Plus</strong> (Web App), <strong>BolChaal</strong> (Flutterflow Mobile App), <strong>Movie Recommendation System</strong> (Google Colab, Jupyter Notebook)
 
+</div>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
