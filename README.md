@@ -1,7 +1,5 @@
+# 💫 Hi 👋, I'm Badal Gupta
 <div align="center">
-
-# 💫 About Me
-
 🚀 Aspiring software developer passionate about **AI/ML** and **full-stack development**  
 🤖 Exploring **NLP**, **deep learning**, and **supervised/unsupervised learning**  
 🌐 Learning the **MERN stack** to build smart, scalable web apps  
