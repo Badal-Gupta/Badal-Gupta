@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me:
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-# 💻 Tech Stack
+# 💻  Languages and Tools:
 
 <div align="center">
 
