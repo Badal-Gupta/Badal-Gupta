@@ -1,9 +1,17 @@
 <h1 align="center">💫 Hi 👋, I'm Badal Gupta</h1>
-<div align="center">
-  <img src="c3b93b54-306e-47e8-868c-fb74070fe71d.png" alt="Developer Cartoon" height="250">
-</div>
 
 <div align="center">
+  <h2 align = "center">A Passionate Developer & Problem Solver</h2>
+  <img src="https://raw.githubusercontent.com/Badal-Gupta/Interview_Prep_Questions/main/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="Developer Cartoon" height="280">
+</div>
+<br><br>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Badal-Gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<div align="left">
 
 🚀 Aspiring software developer passionate about **AI/ML** and **full-stack development**  
 🤖 Exploring **NLP**, **deep learning**, and **supervised/unsupervised learning**  
@@ -113,16 +121,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Badal-Gupta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Badal-Gupta&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badal-Gupta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Badal-Gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
