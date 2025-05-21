@@ -1,4 +1,7 @@
 <h1 align="center">💫 Hi 👋, I'm Badal Gupta</h1>
+<div align="center">
+  <img src="c3b93b54-306e-47e8-868c-fb74070fe71d.png" alt="Developer Cartoon" height="250">
+</div>
 
 <div align="center">
 
