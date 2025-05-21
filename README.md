@@ -18,11 +18,20 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/mrcloud/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/badal-gupta-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="mailto:badal333611@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/_mr__cloud_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="40">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/badal-gupta-/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40">
+  </a>
+  
+  <a href="mailto:badal333611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="40">
+  </a>
 
 </div>
+
 
 ---
 
