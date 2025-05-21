@@ -3,15 +3,22 @@
 Welcome to my GitHub! I'm an **AI/ML enthusiast**, currently diving deep into **full-stack development**, and on a journey to become a skilled **software developer**. This repository is a reflection of my **learning**, **experiments**, and **projects** as I explore the world of technology.
 
 ### 🚀 What You’ll Find Here:
-- 🔍 **AI/ML Projects**: From basic **machine learning** models to **deep learning** experiments  
-- 🌐 **Full-Stack Web Development**: Learning **MERN stack**, **backend APIs**, **frontend UI/UX**, and everything in between  
-- 🛠️ **Problem Solving & Algorithms**: **Coding challenges**, **DSA practice**, and **system design**  
-- 💡 **Learning Logs & Notes**: My **takeaways**, **study materials**, and **curated resources**
+- 🤖 **AI/ML Projects**:  
+  - Working with **supervised**, **unsupervised**, and **reinforcement learning**  
+  - Exploring **NLP**, **deep learning**, **computer vision**, **model evaluation**, and **feature engineering**  
+  - Using tools like **scikit-learn**, **PyTorch**, **TensorFlow**, **Pandas**, and **Matplotlib**  
+- 🌐 **Full-Stack Web Development**:  
+  Learning the **MERN stack**, building **backend APIs**, designing **frontend UI/UX**, and connecting it all together  
+- 🛠️ **Problem Solving & Algorithms**:  
+  Practicing **coding challenges**, **DSA problems**, and exploring **system design** concepts  
+- 💡 **Learning Logs & Notes**:  
+  Sharing my **takeaways**, **study materials**, and **curated resources** from various domains
 
 ### 📌 About Me:
-- 👨‍💻 Passionate about building **intelligent** and **scalable software**  
-- 🌱 **Currently learning**: React, Node.js, MongoDB, and cloud basics  
-- 📫 **Let’s connect!** I'm always open to **learning** and **collaboration**
+- 👨‍💻 Passionate about building **intelligent** and **scalable software systems**  
+- 🌱 **Currently learning**: React, Node.js, MongoDB, cloud basics, and advanced ML topics  
+- 📫 **Let’s connect!** I'm always open to **learning**, **collaboration**, and **creative tech projects**
+
 
 
 ## 🏆 GitHub Trophies
