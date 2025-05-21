@@ -7,7 +7,8 @@
 <br><br>
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Badal-Gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Badal-Gupta&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 </div>
 
