@@ -1,25 +1,12 @@
-## 👋 Hello, I'm **Badal Gupta**!
+## 👋 Hey, I'm Badal Gupta!
 
-Welcome to my GitHub! I'm an **AI/ML enthusiast**, currently diving deep into **full-stack development**, and on a journey to become a skilled **software developer**. This repository is a reflection of my **learning**, **experiments**, and **projects** as I explore the world of technology.
-
-### 🚀 What You’ll Find Here:
-- 🤖 **AI/ML Projects**:  
-  - Working with **supervised**, **unsupervised**, and **reinforcement learning**  
-  - Exploring **NLP**, **deep learning**, **computer vision**, **model evaluation**, and **feature engineering**  
-  - Using tools like **scikit-learn**, **PyTorch**, **TensorFlow**, **Pandas**, and **Matplotlib**  
-- 🌐 **Full-Stack Web Development**:  
-  Learning the **MERN stack**, building **backend APIs**, designing **frontend UI/UX**, and connecting it all together  
-- 🛠️ **Problem Solving & Algorithms**:  
-  Practicing **coding challenges**, **DSA problems**, and exploring **system design** concepts  
-- 💡 **Learning Logs & Notes**:  
-  Sharing my **takeaways**, **study materials**, and **curated resources** from various domains
-
-### 📌 About Me:
-- 👨‍💻 Passionate about building **intelligent** and **scalable software systems**  
-- 🌱 **Currently learning**: React, Node.js, MongoDB, cloud basics, and advanced ML topics  
-- 📫 **Let’s connect!** I'm always open to **learning**, **collaboration**, and **creative tech projects**
-
-
+- 🚀 Aspiring software developer passionate about **AI/ML** and **full-stack dev**
+- 🤖 Exploring **NLP**, **deep learning**, and **supervised/unsupervised learning**
+- 🌐 Learning the **MERN stack** to build smart, scalable web apps
+- 🧠 Solving problems through **DSA** and **system design**
+- 🛠️ Working with **PyTorch**, **TensorFlow**, **scikit-learn**, and **Pandas**
+- 🌱 Currently learning **React**, **Node.js**, **MongoDB**, and **cloud basics**
+- 🤝 Always open to **collaboration**, **learning**, and cool tech ideas!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Badal-Gupta&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
